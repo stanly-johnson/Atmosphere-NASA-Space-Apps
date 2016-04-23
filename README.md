@@ -12,4 +12,4 @@ To run as a web app, use
 
 ```bash
 $ ionic serve
-``
+```
