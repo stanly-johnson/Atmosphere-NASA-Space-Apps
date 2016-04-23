@@ -18,3 +18,4 @@ Screenshots:
 
 ![Main Activity](https://github.com/stanly-johnson/Atmosphere-NASA-Space-Apps/blob/master/screenshots/shot_one.png)
 ![Screen Two](https://github.com/stanly-johnson/Atmosphere-NASA-Space-Apps/blob/master/screenshots/shot_two.png)
+![Screen Three](https://github.com/stanly-johnson/Atmosphere-NASA-Space-Apps/blob/master/screenshots/shot_three.png)
