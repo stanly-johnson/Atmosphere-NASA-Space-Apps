@@ -13,3 +13,7 @@ To run as a web app, use
 ```bash
 $ ionic serve
 ```
+Screenshots:
+
+![Main Activity](https://github.com/stanly-johnson/Atmosphere-NASA-Space-Apps/blob/master/screenshots/shot_one.png)
+![Screen Two](https://github.com/stanly-johnson/Atmosphere-NASA-Space-Apps/blob/master/screenshots/shot_two.png)
