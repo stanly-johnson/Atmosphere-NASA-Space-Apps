@@ -1,12 +1,13 @@
 # Atmosphere-NASA-Space-Apps
 Air Pollution check app for NASA Space App Challenge built using Ionic and Cordova
 
-To run the app, install nodejs
+To run the app, install nodejs, ionic and cordova
 
 ```bash
-$ cordova platform add android
-$ cordova build android
-$ cordova emulate android
+$ cd Atmosphere-NASA-Space-Apps
+$ ionic platform add android
+$ ionic build android
+$ ionic emulate android
 ```
 To run as a web app, use
 
