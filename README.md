@@ -1,5 +1,5 @@
-# Atmosphere-NASA-Space-Apps
-Air Pollution check app for NASA Space App Challenge built using Ionic and Cordova
+# Atmosphere
+Air pollution app for NASA Space App Challenge built using Ionic and Cordova
 
 To run the app, install nodejs, ionic and cordova
 
