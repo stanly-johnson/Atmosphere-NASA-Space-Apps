@@ -1,0 +1,34 @@
+<ion-view title="Atmosphere" id="page2">
+    <ion-content padding="true" class="has-header">
+        <form class="list">
+            <ion-item class="range range-positive">Temperature
+                <input type="range" value="32" min="0" max="100">
+            </ion-item>
+            <ion-item class="range range-positive">Wind Speed
+                <input type="range" value="55" min="0" max="100">
+            </ion-item>
+            <ion-item class="range range-positive">Carbon Monoxide
+                <input type="range" value="25" min="0" max="100" name="CO">
+            </ion-item>
+            <ion-item class="range range-positive">Ozone
+                <input type="range" value="50" min="0" max="100">
+            </ion-item>
+            <ion-item class="range range-positive">PM 10
+                <input type="range" value="50" min="0" max="100">
+            </ion-item>
+            <ion-item class="range range-positive">PM 2.5
+                <input type="range" value="70" min="0" max="100">
+            </ion-item>
+            <ion-item class="range range-positive">AQI
+                <input type="range" value="15" min="0" max="100">
+            </ion-item>
+            <div class="spacer" style="width: 277.333px; height: 46px;"></div>
+            <a href="#" onclick="window.open('http://earth.nullschool.net/', '_system', 'location=yes'); return false;" id="atmosphere-button2" class="button button-positive  button-block">Wind Pattern</a>
+            <a ui-sref="temperatureData" id="atmosphere-button3" class="button button-positive  button-block">Temperature Variations</a>
+            <button id="atmosphere-button5" class="button button-positive  button-block">Side Effects of Pollution</button>
+            <a ui-sref="globalAQI" id="atmosphere-button9" class="button button-positive  button-block">Global AQI</a>
+            <div class="spacer" style="width: 277.333px; height: 27px;"></div>
+            <div class="button-bar"></div>
+        </form>
+    </ion-content>
+</ion-view>
