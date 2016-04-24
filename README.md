@@ -12,7 +12,7 @@ $ ionic emulate android
 To run as a web app, use
 
 ```bash
-$ ionic serve
+$ ionic serve --lab
 ```
 Screenshots:
 
