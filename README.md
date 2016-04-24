@@ -1,6 +1,8 @@
 # Atmosphere
 Air pollution app for NASA Space App Challenge built using Ionic and Cordova
 
+Visit [stanlyjohnson/Atmosphere-NASA-Space-Apps](https://github.com/stanly-johnson/Atmosphere-NASA-Space-Apps.git) for latest repo
+
 To run the app, install nodejs, ionic and cordova
 
 ```bash
@@ -19,3 +21,5 @@ Screenshots:
 ![Main Activity](https://github.com/stanly-johnson/Atmosphere-NASA-Space-Apps/blob/master/screenshots/shot_one.png)
 ![Screen Two](https://github.com/stanly-johnson/Atmosphere-NASA-Space-Apps/blob/master/screenshots/shot_two.png)
 ![Screen Three](https://github.com/stanly-johnson/Atmosphere-NASA-Space-Apps/blob/master/screenshots/shot_three.png)
+![Screen Four](https://github.com/stanly-johnson/Atmosphere-NASA-Space-Apps/blob/master/screenshots/globe.png)
+![Screen Three](https://github.com/stanly-johnson/Atmosphere-NASA-Space-Apps/blob/master/screenshots/temp.png)
